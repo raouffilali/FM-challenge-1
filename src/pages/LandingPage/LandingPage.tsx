@@ -48,8 +48,8 @@ const LandingPage = () => {
               </li>
             </ul>
           </div>
-          <div className="mb-4">
-            <h1 className="text-2xl lg:text-3xl font-young-serif text-primary-nutmeg mb-2">
+          <div className="mb-4 lg:mt-10">
+            <h1 className="text-2xl lg:text-3xl font-young-serif text-primary-nutmeg mb-2 lg:mb-6 lg:mt-10">
               Ingredients
             </h1>
             <ul className="list-disc list-inside text-primary-nutmeg mt-2 mb-12">
