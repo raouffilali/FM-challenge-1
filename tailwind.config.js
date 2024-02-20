@@ -20,7 +20,12 @@ export default {
         "dark-charcoal": "hsl(24, 5%, 18%)",
       },
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        "young-serif": ['"Young Serif"', "serif"],
+        outfit: ["Outfit", "sans-serif"],
+      },
+    },
   },
   variants: {},
   plugins: [],
