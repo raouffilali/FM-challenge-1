@@ -7,6 +7,7 @@ export default {
       lg: "1440px",
     },
     colors: {
+      bcolor: "#E4E4E4",
       primary: {
         nutmeg: "hsl(14, 45%, 36%)",
         "dark-raspberry": "hsl(332, 51%, 32%)",
